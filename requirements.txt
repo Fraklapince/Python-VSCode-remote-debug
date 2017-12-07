@@ -1,0 +1,2 @@
+# ptvsd https://stackoverflow.com/questions/46026434/visual-studio-code-gets-stuck-during-attaching-remote-debugging-to-flask-applica
+ptvsd==3.0.0
